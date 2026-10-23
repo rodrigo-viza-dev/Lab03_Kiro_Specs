@@ -154,6 +154,10 @@ h1 span {
   font-size: 0.9rem;
 }
 
+.loading-message[hidden] {
+  display: none;
+}
+
 .spinner {
   width: 17px;
   height: 17px;
